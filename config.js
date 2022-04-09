@@ -47,7 +47,7 @@ global.author = `LORDsumei`
 global.wm = 'SUMEI 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻'
 global.watermark = wm
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
-global.instagram = 'https://instagram.com/hyzer-stfu'
+global.instagram = 'https://instagram.com/sumei.gt'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23401620&text='
 global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
