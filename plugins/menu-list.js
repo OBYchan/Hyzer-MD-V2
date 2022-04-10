@@ -414,8 +414,8 @@ let help = Object.values(global.plugins).filter(plugin => !plugin.disabled).map(
            hydratedFooterText: wm,
            hydratedButtons: [{
             urlButton: {
-               displayText: 'MY WEBSITE',
-               url: 'https://Hyzerr.github.io/'
+               displayText: 'MY YOUTUBE',
+               url: 'https://youtube.com/channel/UCjy5_8OQV91Zdag3hoUW5LQ'
              }
 
            },
